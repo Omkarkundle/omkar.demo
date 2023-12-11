@@ -1,2 +1,3 @@
 # omkar.demo
-This is first Git repository
+This is my first Git repository.
+Author-Omkar Kundle.
